@@ -17,7 +17,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](https://github.com/nitesh5651mondal/Face-recognition-based-attendance-monitoring-system/blob/4144ca2a4d8f3fd93d58ad363c9b5de1)
+![Screenshot (9)](1730641600624.jpg)
 
 TAKING ATTENDANCE:
 ![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
