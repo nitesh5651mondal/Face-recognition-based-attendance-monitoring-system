@@ -17,7 +17,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](https://drive.google.com/file/d/1BVfd5SmOEkKaJFOIGoFB_5iKtARazQXE/view?usp=drivesdk)
+![Screenshot (9)](https://github.com/nitesh5651mondal/Face-recognition-based-attendance-monitoring-system/blob/26ab61760eefdbb60dea4fbcf50d8dd1f8da2334/1730641600624.jp)
 
 TAKING ATTENDANCE:
 ![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
