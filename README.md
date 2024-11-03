@@ -17,10 +17,10 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](1730641600624.jpg)
+![Screenshot (9)](IMG-20241027-WA0052.jpg)
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![Screenshot (10)](1730641600624.jpg)
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
